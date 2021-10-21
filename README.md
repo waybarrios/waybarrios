@@ -2,7 +2,7 @@
 
 I'm a computer scientist from Colombia. 🇨🇴
 
-I currently live in USA 🇺🇸 and CS PhD student at [Dartmouth](https://home.dartmouth.edu/) 🟢.
+I currently live in USA 🇺🇸 and CS PhD student at [Dartmouth](https://home.dartmouth.edu/).
 
 I have been developing large-scale computer applications in geo-spatial information systems, Machine Learning and Data Analysis, with different teams and organizations. 🌎
 
