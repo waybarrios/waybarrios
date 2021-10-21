@@ -2,11 +2,11 @@
 
 I'm a computer scientist from Colombia. 🇨🇴
 
-I currently live in USA.🇺🇸 
+I currently live in USA 🇺🇸 and CS PhD student at [Dartmouth](https://home.dartmouth.edu/)🟢.
 
-I have been developing large-scale computer applications in geo-spatial informational, Machine Learning and Data Analysis, with different teams and organizations. 🌎
+I have been developing large-scale computer applications in geo-spatial information systems, Machine Learning and Data Analysis, with different teams and organizations. 🌎
 
-I like to build things with Deep Learning/Machine Learning, Computer Vision/Graphics, distributed systems, SQL and NoSQL databases, Docker, Python, Haskell, modern backend APIs, virtualizations and modern frontend frameworks. 🤖
+I like to build things with Deep Learning/Machine Learning, Computer Vision/Graphics, distributed systems, SQL and NoSQL databases, Docker/Kubernetes, Python, Haskell, modern backend APIs and modern frontend frameworks. 🤖
 
 
 You can find me on:
