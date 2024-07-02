@@ -15,6 +15,7 @@ You can find me on:
 * [Twitter as @waybarrios](https://twitter.com/waybarrios)
 * [GitHub as @waybarrios(you are here)](https://github.com/waybarrios)
 * [LinkedIn](https://linkedin.com/in/waybarrios)
+* [Wiqonn (company)](https://wiqonn.com)
 <!--
 ![Wayner's GitHub stats](https://github-readme-stats.vercel.app/api?username=waybarrios&show_icons=true&theme=radical)
 
