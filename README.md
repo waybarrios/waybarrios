@@ -1,39 +1,28 @@
-### Hey! I'm [@waybarrios](https://waybarrios.com) (Wayner Barrios) 👋
+### Hey! I'm Wayner Barrios 👋
 
-I'm a computer scientist from Colombia. 🇨🇴
+**AI Research Scientist | PhD @ Dartmouth**
 
-I currently live in USA 🇺🇸 and CS PhD student at [Dartmouth](https://home.dartmouth.edu/).
+I build and evaluate **multimodal LLMs** that actually understand video and vision. My research focuses on step-verified reasoning, cross-modal fusion, and long-video understanding—plus designing benchmarks and datasets that push these models forward.
 
-I have been developing large-scale computer applications in geo-spatial information systems, Machine Learning and Data Analysis, with different teams and organizations. 🌎
+🔬 **What I work on:**
+- Multimodal LLMs (vision-language) & computer vision
+- Video understanding, moment retrieval & evaluation frameworks
+- Large-scale AI datasets (specs → tooling → QA → release)
+- Production ML systems with distributed training/inference
 
-I like to build things with Deep Learning/Machine Learning, Computer Vision/Graphics, distributed systems, SQL and NoSQL databases, Docker/Kubernetes, Python, Haskell, Rust and  modern backend APIs.
+🛠️ **Tech stack:**
+PyTorch • JAX • TensorFlow • CUDA • Kubernetes • Docker • AWS/GCP • SQL/NoSQL • C++ • Python
 
+🌎 **Background:**
+Colombian computer scientist now based in the US. I've shipped large-scale geo-spatial systems, worked with teams across LATAM and the US on data analytics and ML pipelines, and contributed to Python open-source projects.
 
-You can find me on:
+📫 **Connect:**
+[Website](https://waybarrios.com) • [Twitter](https://twitter.com/waybarrios) • [LinkedIn](https://linkedin.com/in/waybarrios) • [Wiqonn](https://wiqonn.com)
 
-* [My website: waybarrios.com](https://waybarrios.com/)
-* [Twitter as @waybarrios](https://twitter.com/waybarrios)
-* [GitHub as @waybarrios(you are here)](https://github.com/waybarrios)
-* [LinkedIn](https://linkedin.com/in/waybarrios)
-* [Wiqonn (company)](https://wiqonn.com)
 <!--
 ![Wayner's GitHub stats](https://github-readme-stats.vercel.app/api?username=waybarrios&show_icons=true&theme=radical)
-
 -->
-
-
 
 <!--
 **waybarrios/waybarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
