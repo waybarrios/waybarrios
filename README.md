@@ -4,7 +4,7 @@
 
 I build and evaluate **multimodal LLMs** that actually understand video and vision. My research focuses on step-verified reasoning, cross-modal fusion, and long-video understanding—plus designing benchmarks and datasets that push these models forward.
 
-🔬 **What I work on:**
+👨‍💻 **What I work on:**
 - Multimodal LLMs (vision-language) & computer vision
 - Video understanding, moment retrieval & evaluation frameworks
 - Large-scale AI datasets (specs → tooling → QA → release)
